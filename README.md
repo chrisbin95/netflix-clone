@@ -1,6 +1,6 @@
 ## Netflix-Clone 
 
-This project was deployed on > [Netflix-Clone](https://chrisbin95.github.io/netflix-clone/)).
+This project was deployed on > [Netflix-Clone](https://chrisbin95.github.io/netflix-clone/).
 <p>Developed for Rapsol Technologies as an Assignment.</p>
 Developed by Chrisbin Thomas (https://chrisbin95.github.io/Portfolio/).
 
