@@ -1,10 +1,10 @@
 ## Netflix-Clone 
 
-# This project was deployed on > [Netflix-Clone](https://chrisbin95.github.io/netflix-clone/)
+## This project was deployed on > [Netflix-Clone](https://chrisbin95.github.io/netflix-clone/)
 
 ## Developed by > [Chrisbin Thomas](https://chrisbin95.github.io/Portfolio/)
 
-# Getting Started with Create-React-App
+## Getting Started with Create-React-App
 ## Available Scripts
 
 In the project directory, you can run:
