@@ -2,6 +2,8 @@
 
 ## This project was deployed on > [Netflix-Clone](https://chrisbin95.github.io/netflix-clone/)
 
+![Preview Image](https://raw.githubusercontent.com/chrisbin95/netflix-clone/gh-pages/preview.png)
+
 ### Developed by > [Chrisbin Thomas](https://chrisbin95.github.io/Portfolio/)
 
 #### Getting Started with Create-React-App
